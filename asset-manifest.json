@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Mahes-Food-Project/static/css/main.31d6cfe0.css",
+    "main.js": "/Mahes-Food-Project/static/js/main.9e97746a.js",
+    "index.html": "/Mahes-Food-Project/index.html",
+    "main.9e97746a.js.map": "/Mahes-Food-Project/static/js/main.9e97746a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9e97746a.js"
+  ]
+}
