@@ -2,6 +2,7 @@
   "name": "foodapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://LINGALA-MAHESWAR-REDDY.github.io/Mahes-Food-Project",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
@@ -19,7 +20,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "ev": "echo 'Mahes-Food-Project is ready for deployment!'"
   },
   "eslintConfig": {
     "extends": [
@@ -38,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
