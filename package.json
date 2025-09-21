@@ -23,7 +23,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "ev": "echo 'Mahes-Food-Project is ready for deployment!'"
+    "ev": "echo 'foodapp is ready for deployment!'"
   },
   "eslintConfig": {
     "extends": [
