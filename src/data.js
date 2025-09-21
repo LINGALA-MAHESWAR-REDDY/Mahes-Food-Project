@@ -25,7 +25,8 @@ export const restaurants = [
   {
     id: 2,
     name: 'Ocean Bites',
-    image: '/images/Restaurants/restaurant2.jpg',
+    image: `${process.env.PUBLIC_URL}/images/Restaurants/restaurant2.jpg`,
+
     menu: [
       { name: 'Grilled Salmon', price: 250, image: '/images/FoodItems/salmon.jpg' },
       { name: 'Garlic Shrimp', price: 230, image: '/images/FoodItems/shrimp.jpg' },
