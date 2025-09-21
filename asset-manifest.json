@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Mahes-Food-Project/static/css/main.31d6cfe0.css",
-    "main.js": "/Mahes-Food-Project/static/js/main.ad2e3dad.js",
+    "main.js": "/Mahes-Food-Project/static/js/main.b17f27f3.js",
     "index.html": "/Mahes-Food-Project/index.html",
-    "main.ad2e3dad.js.map": "/Mahes-Food-Project/static/js/main.ad2e3dad.js.map"
+    "main.b17f27f3.js.map": "/Mahes-Food-Project/static/js/main.b17f27f3.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ad2e3dad.js"
+    "static/js/main.b17f27f3.js"
   ]
 }
